@@ -13,6 +13,9 @@ class Dog
    @@all = []
  end
 
+ def save 
+   @@all << save
+
 
 
 
