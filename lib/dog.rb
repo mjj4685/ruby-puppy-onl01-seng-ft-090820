@@ -5,6 +5,9 @@ class Dog
    @name = name
  end
 
+ def self.all
+   @@all? 
+
 
 
 
