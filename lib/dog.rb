@@ -17,10 +17,10 @@ class Dog
    @@all << self
  end
 
- def name 
+ def name
    @name
  end
- 
+
 
 
 
